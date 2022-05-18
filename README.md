@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kuba
+- I’m currently learning Web development
+- My tech: JS, TS, REACT.js, REACT HOOKS, BOOTSTRAP, SCSS
+- Look on my few projects! 
