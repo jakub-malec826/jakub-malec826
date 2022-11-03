@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kuba
 - I’m currently learning Web development
 - My tech: JS, TS, REACT.js, REACT HOOKS, REDUX, NODE.js, BOOTSTRAP, SCSS
-- Looking for some job, if u interested, [contact me](jakub.malec826@gmail.com)
+- Looking for some job, if u interested, [contact me](mailto:jakub.malec826@gmail.com)
 - Look on my few projects! 
